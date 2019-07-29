@@ -1,0 +1,17 @@
+{
+  "name": "library-css-js",
+  "version": "1.8.8",
+  "authors": [
+    "Trong Chung <chungletrong17@gmail.com>"
+  ],
+  "description": "super saiya",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/chung-lt/library.git",
+  "ignore": [
+    "README.md"
+  ]
+}
